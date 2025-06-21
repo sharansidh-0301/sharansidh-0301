@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Software Developer | 🤖 AI & IoT Innovator | 🎓 ECE Undergraduate</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;AI+Researcher;IoT+System+Designer;Debugging+Champion;Always+Learning&center=true&width=500&height=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Networking+Engineer;AI+Researcher;IoT+System+Designer;Debugging+Champion;Always+Learning&center=true&width=500&height=30" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=sharansidh-0301&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
+<p align="center" gap="10">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sharansidh-0301&theme=onedark&no-frame=true&row=1&column=6" />
   </a>
