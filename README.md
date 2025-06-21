@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#7f5af0">Sharañ Sidh</span></h1>
-<h3 align="center">🚀 Passionate Software Developer | 🤖 AI & IoT Enthusiast | 🎓 ECE Undergraduate</h3>
+<h3 align="center">🚀 Passionate Software Developer | 🤖 AI & IoT Innovator | 🎓 ECE Undergraduate</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%2B+Drone+Engineer;Full-stack+Web+Developer;Blockchain+Learner;IoT+Automation+Creator&center=true&width=500&height=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;IoT+Automation+Creator;Blockchain+Explorer;Always+Learning&center=true&width=500&height=30" alt="Typing SVG" />
 </div>
 
 ---
@@ -23,10 +23,9 @@
 
 - 🔭 Currently working on: `Generative AI for Crop Disease Detection`
 - 🌱 Learning: `MongoDB`, `Express.js`, `Node.js`
-- 🧠 Interests: AI, Drones, Embedded IoT, Blockchain, Web Apps
-- 💬 Ask me about: `React`, `Vue`, `Image Processing`
+- 💬 Ask me about: `React`, `Vue`, `IoT Projects`, `OpenCV`
 - 📫 Reach me at: **sharansidh0301@gmail.com**
-- 🥇 Hackathon Finalist | 📡 Innovator | 🎨 Designer
+- 🎯 Building tech that combines software + hardware for real-world impact
 
 ---
 
@@ -49,7 +48,7 @@
 ## 🛠 Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,bootstrap,nodejs,mongodb,mysql,python,cpp,java,arduino,git,photoshop" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,nodejs,html,css,bootstrap,mongodb,mysql,python,cpp,java,arduino,git,photoshop" />
 </p>
 
 ---
@@ -59,19 +58,25 @@
 <table align="center">
 <tr>
   <td align="center" width="33%">
-    <h4>🧠 AgroDrone AI</h4>
-    <sub>Drone-based AI system for orchard monitoring & yield prediction</sub>
-    <br><br><code>TensorFlow</code> | <code>OpenCV</code> | <code>Blockchain</code>
+    <h4>🔐 Strong Password Generator</h4>
+    <sub>A fast, responsive React app that generates secure and complex passwords.</sub>
+    <br><br>
+    <a href="https://github.com/sharansidh-0301/strong-password-generator" target="_blank">🔗 GitHub Repo</a>
+    <br><br><code>React.js</code> <code>Tailwind</code>
   </td>
   <td align="center" width="33%">
-    <h4>💳 Smart Canteen</h4>
-    <sub>RFID Prepaid System using Node.js & MongoDB</sub>
-    <br><br><code>ESP32</code> | <code>RFID</code> | <code>Vue.js</code>
+    <h4>🔳 QR Code Generator</h4>
+    <sub>Simple QR generator built using React for URLs, text, and more.</sub>
+    <br><br>
+    <a href="https://github.com/sharansidh-0301/qr-code-generator" target="_blank">🔗 GitHub Repo</a>
+    <br><br><code>React.js</code> <code>QRCode.js</code>
   </td>
   <td align="center" width="33%">
-    <h4>🌿 Disease Bot</h4>
-    <sub>Image Upload → Disease Detected + Remedy Report</sub>
-    <br><br><code>Python</code> | <code>Flask</code> | <code>AI</code>
+    <h4>🛢️ Sewage Gas Monitoring System</h4>
+    <sub>IoT project to monitor harmful gases in sewage and initiate neutralization.</sub>
+    <br><br>
+    <a href="https://github.com/sharansidh-0301/sewage-gas-monitoring" target="_blank">🔗 GitHub Repo</a>
+    <br><br><code>ESP32</code> <code>MQ2 Sensor</code> <code>IoT</code>
   </td>
 </tr>
 </table>
@@ -93,11 +98,11 @@
 
 ## 💡 Fun Facts
 
-- 😄 Known as “The Drone Guy” in my circle  
-- 🎯 Passionate about solving **real-world problems** with **code + hardware**
+- 😄 Nickname: “The Drone Guy”  
+- 💻 Always blending code with creativity  
 - 🌏 From: Tamil Nadu, India  
-- 🛠 Motto: *"Build locally, impact globally."*
+- 🧠 Motto: *“Code once. Deploy everywhere.”*
 
 ---
 
-<p align="center">✨ Building, Innovating & Exploring — one repo at a time ✨</p>
+<p align="center">✨ Building, Learning & Evolving — one repo at a time ✨</p>
