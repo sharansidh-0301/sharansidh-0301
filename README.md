@@ -54,7 +54,7 @@
 ## 🛠 Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,django,vite,js,nodejs,mongodb,mysql,tailwind,linux,eclipse,anaconda,network,arduino,git,html,css,bootstrap,photoshop" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,django,vite,js,nodejs,mongodb,mysql,tailwind,linux,eclipse,anaconda,cisco,arduino,git,html,css,bootstrap,photoshop" />
 </p>
 
 ---
