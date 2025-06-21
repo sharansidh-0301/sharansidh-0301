@@ -99,6 +99,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharansidh-0301&layout=compact&theme=tokyonight" />
 </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharansidh-0301&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sharansidh-0301&show_icons=true&theme=radical" height="180"/>
+</div>
+
 
 ---
 
