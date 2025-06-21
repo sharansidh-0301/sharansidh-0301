@@ -21,7 +21,7 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently working on: `Generative AI for Crop Disease Detection`
+- 🔭 Currently working on: `Generative AI for Real-Time Application`
 - 🌱 Learning: `MongoDB`, `Node.js`, `Cloud & IoT integrations`
 - 💬 Ask me about: `React`, `Vue`, `Image Processing`, `Java`, `Django`
 - 📫 Reach me at: **sharansidh0301@gmail.com**
@@ -44,7 +44,7 @@
   <a href="https://skillrack.com/faces/profile.xhtml?uid=sharansidh0301" target="_blank">
     <img src="https://img.shields.io/badge/-SkillRack-blueviolet?style=for-the-badge&logo=code&logoColor=white" />
   </a>
-  <a href="https://sharansidh-0301.github.io/portfolio" target="_blank">
+  <a href="[https://sharansidh-0301.github.io/portfolio](https://sidh-profolio.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
@@ -54,7 +54,7 @@
 ## 🛠 Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,nodejs,html,css,bootstrap,mongodb,mysql,python,cpp,java,django,arduino,git,photoshop" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,nodejs,html,css,bootstrap,mongodb,mysql,python,tailwind,java,django,arduino,git,photoshop" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
     <h4>🏦 Java ATM Machine</h4>
     <sub>Core banking simulation using JDBC, MySQL, and Java.</sub>
     <br><br>
-    <a href="https://github.com/sharansidh-0301/Java-ATM-Machine" target="_blank">🔗 GitHub Repo</a>
+    <a href="https://github.com/sharansidh-0301/JAVA-PROJECTS" target="_blank">🔗 GitHub Repo</a>
     <br><br><code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Eclipse</code>
   </td>
   <td align="center" width="33%">
@@ -117,7 +117,7 @@
 
 ## 💡 Fun Facts
 
-- 😄 Known as “The Drone Guy” in my circles  
+- 😄 Known as “The Tech Guy” in my circles  
 - 🛠 Built real-world solutions from **canteens to crops**  
 - 💡 Motto: *"Think it. Code it. Build it."*  
 - 🏠 From: Tamil Nadu, India  
