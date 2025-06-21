@@ -44,7 +44,7 @@
   <a href="https://skillrack.com/faces/profile.xhtml?uid=sharansidh0301" target="_blank">
     <img src="https://img.shields.io/badge/-SkillRack-blueviolet?style=for-the-badge&logo=code&logoColor=white" />
   </a>
-  <a href="[https://sharansidh-0301.github.io/portfolio](https://sidh-profolio.vercel.app/)" target="_blank">
+  <a href="https://sidh-profolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
