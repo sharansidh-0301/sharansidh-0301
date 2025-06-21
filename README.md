@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=sharansidh-0301&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center" gap="10">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sharansidh-0301&theme=onedark&no-frame=true&row=1&column=6" />
   </a>
@@ -104,15 +104,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharansidh-0301&theme=tokyo-night&area=true" />
 </p>
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharansidh-0301/sharansidh-0301/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-
-
-
 ---
 
 ## 💡 Fun Facts
