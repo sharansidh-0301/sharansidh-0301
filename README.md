@@ -93,7 +93,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=gayathri1006&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <img src="https://streak-stats.demolab.com/?user=sharansidh-0301&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharansidh-0301&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharansidh-0301&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
@@ -104,7 +104,7 @@
 ## 🧠 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayathri1006&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharansidh-0301&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
