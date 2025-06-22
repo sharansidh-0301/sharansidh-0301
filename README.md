@@ -89,15 +89,22 @@
 
 ---
 
+
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharansidh-0301&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sharansidh-0301&show_icons=true&theme=radical" height="180"/>
-</div>
-<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharansidh-0301&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sharansidh-0301&theme=tokyonight" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharansidh-0301&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharansidh-0301&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+
+## 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayathri1006&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
