@@ -93,7 +93,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sharansidh-0301&theme=tokyonight" alt="Streak Stats"/>
+    <img src="https://streak-stats.demolab.com/?user=gayathri1006&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharansidh-0301&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharansidh-0301&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
