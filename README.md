@@ -38,9 +38,9 @@
   <a href="https://www.facebook.com/sharansidh7" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/sharansidh0301/" target="_blank">
+<!--   <a href="https://leetcode.com/u/sharansidh0301/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
+  </a> -->
   <a href="https://skillrack.com/faces/profile.xhtml?uid=sharansidh0301" target="_blank">
     <img src="https://img.shields.io/badge/-SkillRack-blueviolet?style=for-the-badge&logo=code&logoColor=white" />
   </a>
