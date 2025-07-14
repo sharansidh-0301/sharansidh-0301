@@ -15,6 +15,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sharansidh-0301&theme=onedark&no-frame=true&row=1&column=6" />
   </a>
+  
 </p>
 
 ---
