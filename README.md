@@ -82,7 +82,7 @@
     <h4>🛢️ Sewage Gas Monitoring</h4>
     <sub>IoT-based gas sensor system for environmental protection.</sub>
     <br><br>
-    <a href="https://github.com/sharansidh-0301/sewage-gas-monitoring" target="_blank">🔗 GitHub Repo</a>
+    <a href="https://github.com/sharansidh-0301/Sewage-Guardian/tree/main" target="_blank">🔗 GitHub Repo</a>
     <br><br><code>ESP32</code> <code>MQ2</code> <code>IoT</code>
   </td>
 </tr>
