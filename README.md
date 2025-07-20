@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Software Developer | 🤖 Gen AI & IoT Innovator |🎓 Pursuing ECE Undergraduate </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Networking+Engineer;;AI+Researcher;IoT+System+Designer;Debugging+Champion;Always+Learning&center=true&width=500&height=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Networking+Engineer;;AI+Researcher;IoT+System+Designer&center=true&width=500&height=30" alt="Typing SVG" />
 </div>
 
 
