@@ -41,7 +41,7 @@
 <!--   <a href="https://leetcode.com/u/sharansidh0301/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a> -->
-  <a href="https://skillrack.com/faces/profile.xhtml?uid=sharansidh0301" target="_blank">
+  <a href="https://www.skillrack.com/faces/resume.xhtml?id=485408&key=ab660e76410626480d343d7e6ebb15061ac4f388" target="_blank">
     <img src="https://img.shields.io/badge/-SkillRack-blueviolet?style=for-the-badge&logo=code&logoColor=white" />
   </a>
   <a href="https://sidh-jr.web.app/" target="_blank">
