@@ -1,4 +1,12 @@
+<h1 align="center">Hi 👋, I'm <span style="color:#7f5af0">Sharañ Sidh</span></h1>
 
+<h3 align="center">🚀 Passionate Software Developer | 🤖 Gen AI & IoT Innovator |🎓 Pursuing ECE Undergraduate </h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Networking+Engineer;;AI+Researcher;IoT+System+Designer&center=true&width=500&height=30" alt="Typing SVG" />
+</div>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharansidh-0301&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
