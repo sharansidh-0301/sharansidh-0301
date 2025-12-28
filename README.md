@@ -22,8 +22,8 @@
 ## 🌟 About Me
 
 - 🔭 Currently working on: `Generative AI for Real World Application`
-- 🌱 Learning: `MongoDB`, `Node.js`, `Cloud & IoT integrations`
-- 💬 Ask me about: `React`, `Vite.js`,`Image Processing`, `Java`, `Django`
+- 🌱 Learning: `Backend`, `API`, `Cloud & IoT integrations`
+- 💬 Ask me about: `React`, `Spring Boot`,`Image Processing`, `Java`, `Django`
 - 📫 Reach me at: **sharansidh0301@gmail.com**
 - 🎯 Passionate about solving real-world problems with smart tech
 
