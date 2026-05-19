@@ -22,9 +22,9 @@
 ---
 ## 🌟 About Me
 
-- 🔭 Currently working on: `Generative AI for Real World Application`
+- 🔭 Currently working on: `Networking and Cyber Security`
 - 🌱 Learning: `Backend`, `API`, `Cloud & IoT integrations`
-- 💬 Ask me about: `React`, `Spring Boot`,`Image Processing`, `Java`, `Django`
+- 💬 Ask me about: `React`, `Spring Boot`,`Image Processing`, `Java`
 - 📫 Reach me at: **sharansidh0301@gmail.com**
 - 🎯 Passionate about solving real-world problems with smart tech
 
